@@ -424,8 +424,7 @@ personalized tasks
 
 
 - create a branch of the `mp-data` repo for your respective volume and propose a change in GitLab via a Merge Request
-<!-- 
-- Travelogues
+<!-- - Travelogues
     - fork the github pages repo and fix a typo using a GitHub pull request 
 -->
 
