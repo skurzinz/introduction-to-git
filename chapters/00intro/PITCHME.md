@@ -26,8 +26,8 @@ a very brief introduction.
 - 1445 Hands-on (1) 
 - 1515 Pause
 - 1530 Git platforms
-  - GitLab 
-  - GitHub
+    - GitLab 
+    - GitHub
 - 1600 Hands-on (2) 
 - 1645 End/open questions
 @ulend
