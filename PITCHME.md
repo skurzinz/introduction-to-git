@@ -415,6 +415,9 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 personalized tasks 
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 @snap[north h3-white]
 #### Exercise 2 MRP
 @snapend
