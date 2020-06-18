@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #4286f4, ##fffff) @title[Git for historians]
+---?color=linear-gradient(to right, #4286f4, ##fffff) @title[Git Version Control for historians]
 
 @snap[west text-25 text-bold text-black] 
 Git Version Control for Historians 
@@ -138,7 +138,7 @@ a very brief introduction.
 #### How does git work in practice?
 @snapend
 
-@ol
+@ol(false)
 1. *clone* or create (*init*) a repository
 2. make changes
 3. *add* to index 
@@ -153,7 +153,7 @@ a very brief introduction.
 #### How does git work in practice? (contd)
 @snapend
 
-@ol
+@ol(false)
 6. collaborators *pull* the changes
 7. merge changes 
     - automatically if conflict-free
@@ -225,7 +225,7 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 #### Git branches (contd)
 @snapend
 
-@ol
+@ol(false)
 1. a. git *branch* | git *checkout* -b branchname 
 2. …
 3. …
@@ -233,9 +233,11 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 5. if necessary on remotes:
     - *push* -u origin branchname  <br/>otherwise delete: 
     - git checkout development && git merge branchname && git branch -d branchname
+@olend
 
-
+@snap[south span-100]
 Branches are throwaway material
+@snapend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
