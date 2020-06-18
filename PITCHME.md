@@ -227,9 +227,9 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 
 @ol[](false)
 1. a. git *branch* | git *checkout* -b branchname 
-2. …
-3. …
-4. …
+2. make changes
+3. *add* to index 
+4. *commit* with a message documenting changes
 5. if necessary on remotes:
     - *push* -u origin branchname  <br/>otherwise delete: 
     - git checkout development && git merge branchname && git branch -d branchname
@@ -273,11 +273,7 @@ Branches are throwaway material
 - Git comes as a command line tool
 - those who want to dig deeper: look into `./.git/`
 - Graphical interfaces see https://git-scm.com/downloads, e.g.
-    - SourceTree
-    - GitAhead
-    - GitHub Desktop
-    - TortoiseGit
-    - gitg 
+SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg 
 - Some text/code editors/IDEs offer native/plugin Git support
 - Web interfaces (covered in lesson02)
 
