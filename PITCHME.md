@@ -27,8 +27,6 @@ a very brief introduction.
 #### Schedule | Overview
 @snapend
 
-@snap[south span-100]
-
 - 1400 Introduction 
 - 1430 Installation 
 - 1445 Hands-on (1) 
@@ -36,8 +34,6 @@ a very brief introduction.
 - 1530 Git platforms (GitLab, GitHub)
 - 1600 Hands-on (2) 
 - 1645 End/open questions
-
-@snapend
 
 
 <!-- lesson01 --> 
@@ -273,7 +269,7 @@ Branches are throwaway material
 - Graphical interfaces see https://git-scm.com/downloads, e.g.
 SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg 
 - Some text/code editors/IDEs offer native/plugin Git support
-- Web interfaces (covered in lesson02)
+- Web interfaces (covered after the break)
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
