@@ -138,7 +138,7 @@ a very brief introduction.
 #### How does git work in practice?
 @snapend
 
-@ol(false)
+@ol[](false)
 1. *clone* or create (*init*) a repository
 2. make changes
 3. *add* to index 
@@ -153,7 +153,7 @@ a very brief introduction.
 #### How does git work in practice? (contd)
 @snapend
 
-@ol(false)
+@ol[](false)
 6. collaborators *pull* the changes
 7. merge changes 
     - automatically if conflict-free
@@ -225,7 +225,7 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 #### Git branches (contd)
 @snapend
 
-@ol(false)
+@ol[](false)
 1. a. git *branch* | git *checkout* -b branchname 
 2. …
 3. …
