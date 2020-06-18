@@ -10,17 +10,13 @@ Git Version Control for Historians
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
-@snap[north h3-white]
 ## Git Version Control for Historians
-@snapend
 
-@snap[north h3-white]
-#### a very brief introduction. 
-@snapend
+### a very brief introduction. 
 @snapend
 
 @snap[south span-100]
-/2020-06-22, IHB, 1400-1730, Stephan Kurz/
+2020-06-22, IHB, 1400-1730, Stephan Kurz
 @snapend
 
 
@@ -28,9 +24,7 @@ Git Version Control for Historians
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
-@snap[north h3-white]
 #### Schedule | Overview
-@snapend
 @snapend
 
 @snap[south span-100]
@@ -323,8 +317,7 @@ Branches are throwaway material
 
 @ul
 - add any text file to the `text-files` folder 
-- basic rendering is applied if you use  
-    markdown syntax (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- basic rendering is applied if you use <br/>markdown syntax (<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>)
 @ulend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
@@ -347,8 +340,7 @@ Branches are throwaway material
 @snapend
 
 @ul
-- https://github.com  
-demo
+- https://github.com <br/>demo
 @ulend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
@@ -381,8 +373,7 @@ demo
 @snapend
 
 @ul
-- https://gitlab.com  
-demo
+- https://gitlab.com <br/>demo
 @ulend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
@@ -398,8 +389,8 @@ demo
 - user management
 - "projects" group related repositories
 - issue tracking
-- Continuous Integration (CI)
-– GitHub *pull requests* are called *merge requests*
+- Continuous Integration (CI) 
+- GitHub *pull requests* are called *merge requests*
 - only *Maintainer*+ level members can work on master
 - used internally at ACDH-CH
 @ulend
@@ -424,20 +415,41 @@ demo
 #### Exercise 2
 @snapend
 
-personalized tasks: 
+personalized tasks 
+
+@snap[north h3-white]
+#### Exercise 2 MRP
+@snapend
 
 @ul
-- MRP
-    - create a branch of the `mp-data` repo for your respective volume and propose a change in GitLab via a Merge Request
+- create a branch of the `mp-data` repo for your respective volume and propose a change in GitLab via a Merge Request
+<!-- 
 - Travelogues
     - fork the github pages repo and fix a typo using a GitHub pull request 
-- maechtekongresse
-    - create a GitLab account and change your remote
-    - create a kongress-docker repo and a dockerfile in there to get the CI to deploy the GitHub app+data repo
-- QHOD
-    - create one private repo each to hold your respective edition TEI data 
-    - think about a folder/file structure together that should be followed in these repos
-@ulend
+-->
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
+@snap[north h3-white]
+#### Exercise 2 maechtekongresse
+@snapend
+
+@ul
+- create a GitLab account and change your remote
+- create a kongress-docker repo and a dockerfile in there to get the CI to deploy the GitHub app+data repo
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
+@snap[north h3-white]
+#### Exercise 2 QHOD
+@snapend
+
+
+@ul
+- create one private repo each to hold your respective edition TEI data 
+- think about a folder/file structure together that should be followed in these repos@ulend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -467,6 +479,6 @@ personalized tasks:
 Thanks!
 @snapend
 
-https://gitpitch.com/skurzinz/introduction-to-git
+slides: 
 
----?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+https://gitpitch.com/skurzinz/introduction-to-git
