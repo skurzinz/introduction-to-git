@@ -313,7 +313,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[--- Break ---]
+@title[—— Break ——]
 
 @snap[north h3-white]
 #### Short break until 1530
