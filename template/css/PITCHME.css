@@ -1,0 +1,19 @@
+.reveal .slides section .code-presenting-annotation {
+  color: white;
+  background: #5289F7;
+  padding: 0px 15px;
+  border-radius: 15px;
+  opacity: 0.75 !important;
+  font-size: 50% !important;
+}
+
+.title-note {
+  letter-spacing: 0.1em;
+  font-size: 0.4em !important;
+}
+
+.reveal h4 {
+	color: white;
+}
+
+.custom-spaced-bullets li { margin-bottom: 0.4em; }
