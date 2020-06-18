@@ -10,9 +10,13 @@ Git Version Control for Historians
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
+@snap[north h3-white]
 ## Git Version Control for Historians
+@snapend
 
+@snap[north h3-white]
 #### a very brief introduction. 
+@snapend
 @snapend
 
 @snap[south span-100]
@@ -24,7 +28,9 @@ Git Version Control for Historians
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
+@snap[north h3-white]
 #### Schedule | Overview
+@snapend
 @snapend
 
 @snap[south span-100]
@@ -47,7 +53,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Hi!
+@snapend
 
 @ul
 - Questions? Interrupt! 
@@ -59,7 +67,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Introduction
+@snapend
 
 @ul
 - Versioning is a concept known to Historians
@@ -73,7 +83,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### What about the name? 
+@snapend
 
 @ul
 - just a pronouncable 3-letter word 
@@ -84,7 +96,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### What is git made for? 
+@snapend
 
 @ul
 - development / code
@@ -94,7 +108,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### What is it not made for? 
+@snapend
 
 @ul
 - binary data, e.g.
@@ -108,7 +124,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Principal concepts of git
+@snapend
 
 @ul
 - working copy
@@ -122,7 +140,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### How does git work in practice?
+@snapend
 
 @ol
 1. *clone* or create (*init*) a repository
@@ -135,7 +155,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### How does git work in practice? (contd)
+@snapend
 
 @ol
 6. collaborators *pull* the changes
@@ -149,7 +171,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Why would we care? 
+@snapend
 
 @ul
 - Messy states of e.g. change-tracking in standard word processors
@@ -162,7 +186,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Question round
+@snapend
 
 @ul
 - ? 
@@ -171,7 +197,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Git branches
+@snapend
 
 @ul
 - standard: master
@@ -183,7 +211,9 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Git flow branching
+@snapend
 
 @ul
 - master
@@ -197,7 +227,9 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Git branches (contd)
+@snapend
 
 @ol
 1. a. git *branch* | git *checkout* -b branchname 
@@ -213,7 +245,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Question round
+@snapend
 
 @ul
 - ? 
@@ -222,7 +256,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Installation
+@snapend
 
 @ul
 - Git SCM Download: https://git-scm.com/download
@@ -232,7 +268,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Tools for Git 
+@snapend
 
 @ul
 - Git comes as a command line tool
@@ -250,7 +288,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Use cases in the room
+@snapend
 
 @ul
 - this presentation: https://github.com/skurzinz/introduction-to-git.git
@@ -264,7 +304,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Practical example
+@snapend
 
 @ul
 - register at https://github.com
@@ -274,7 +316,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Exercise 1
+@snapend
 
 @ul
 - add any text file to the `text-files` folder 
@@ -285,7 +329,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Short break until 1530
+@snapend
 
 
 
@@ -295,7 +341,9 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### GitHub: One web implementation
+@snapend
 
 @ul
 - https://github.com  
@@ -306,7 +354,9 @@ demo
 @title[Sidebar + Heading]
 
 
+@snap[north h3-white]
 #### GitHub: One web implementation (contd)
+@snapend
 
 @ul
 - offers server for projects using Git
@@ -325,7 +375,9 @@ demo
 @title[Sidebar + Heading]
 
 
+@snap[north h3-white]
 #### GitLab: Another web implementation
+@snapend
 
 @ul
 - https://gitlab.com  
@@ -336,7 +388,9 @@ demo
 @title[Sidebar + Heading]
 
 
+@snap[north h3-white]
 #### GitLab: Another web implementation (contd)
+@snapend
 
 @ul
 - can be self-hosted
@@ -353,7 +407,9 @@ demo
 @title[Sidebar + Heading]
 
 
+@snap[north h3-white]
 #### Question round
+@snapend
 
 @ul
 - ? 
@@ -363,7 +419,9 @@ demo
 @title[Sidebar + Heading]
 
 
+@snap[north h3-white]
 #### Exercise 2
+@snapend
 
 personalized tasks: 
 
@@ -384,7 +442,9 @@ personalized tasks:
 @title[Sidebar + Heading]
 
 
+@snap[north h3-white]
 #### Further reading
+@snapend
 
 @ul
 - https://rogerdudler.github.io/git-guide/index.de.html
