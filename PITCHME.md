@@ -7,7 +7,7 @@ Git Version Control for Historians
 @snap[south-west byline text-white text-06] Vienna, Austria, 2020-06-22 @snapend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Welcome]
 
 @snap[north h3-white span-100]
 ### Git Version Control for Historians 
@@ -21,7 +21,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Schedule | Overview]
 
 @snap[north h3-white]
 #### Schedule | Overview
@@ -39,7 +39,7 @@ a very brief introduction.
 <!-- lesson01 --> 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Hi!]
 
 @snap[north h3-white]
 #### Hi!
@@ -53,7 +53,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Introduction]
 
 @snap[north h3-white]
 #### Introduction
@@ -69,7 +69,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[What about the name?]
 
 @snap[north h3-white]
 #### What about the name? 
@@ -82,7 +82,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[What is git made for?]
 
 @snap[north h3-white]
 #### What is git made for? 
@@ -94,7 +94,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[What is it not made for?]
 
 @snap[north h3-white]
 #### What is it not made for? 
@@ -110,7 +110,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Principal concepts of git]
 
 @snap[north h3-white]
 #### Principal concepts of git
@@ -126,7 +126,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Git in practice 1]
 
 @snap[north h3-white]
 #### How does git work in practice?
@@ -141,7 +141,7 @@ a very brief introduction.
 @olend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Git in practice 2]
 
 @snap[north h3-white]
 #### How does git work in practice? (contd)
@@ -157,7 +157,7 @@ a very brief introduction.
 @olend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Why?]
 
 @snap[north h3-white]
 #### Why would we care? 
@@ -172,7 +172,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Questions?]
 
 @snap[north h3-white]
 #### Question round
@@ -183,7 +183,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Git branches]
 
 @snap[north h3-white]
 #### Git branches
@@ -197,7 +197,7 @@ a very brief introduction.
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Git flow branching]
 
 @snap[north h3-white]
 #### Git flow branching
@@ -213,7 +213,7 @@ a very brief introduction.
 
 see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-Workflow.html
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Git branches]
 
 @snap[north h3-white]
 #### Git branches (contd)
@@ -234,7 +234,7 @@ Branches are throwaway material
 @snapend
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Questions?]
 
 @snap[north h3-white]
 #### Question round
@@ -245,7 +245,7 @@ Branches are throwaway material
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Installing git]
 
 @snap[north h3-white]
 #### Installation
@@ -257,7 +257,7 @@ Branches are throwaway material
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Tools for Git]
 
 @snap[north h3-white]
 #### Tools for Git 
@@ -273,7 +273,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Use cases in the room]
 
 @snap[north h3-white]
 #### Use cases in the room
@@ -289,7 +289,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Practical example]
 
 @snap[north h3-white]
 #### Practical example
@@ -301,7 +301,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Exercise 1]
 
 @snap[north h3-white]
 #### Exercise 1
@@ -313,7 +313,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[--- Break ---]
 
 @snap[north h3-white]
 #### Short break until 1530
@@ -325,7 +325,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[GitHub: One web implementation]
 
 @snap[north h3-white]
 #### GitHub: One web implementation
@@ -336,7 +336,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[GitHub: One web implementation]
 
 
 @snap[north h3-white]
@@ -357,7 +357,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[GitLab: Another web implementation]
 
 
 @snap[north h3-white]
@@ -369,7 +369,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[GitLab: Another web implementation]
 
 
 @snap[north h3-white]
@@ -388,7 +388,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Questions?]
 
 
 @snap[north h3-white]
@@ -400,7 +400,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Exercise 2]
 
 
 @snap[north h3-white]
@@ -410,7 +410,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 personalized tasks 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Exercise 2 MRP]
 
 @snap[north h3-white]
 #### Exercise 2 MRP
@@ -422,7 +422,7 @@ personalized tasks
 <!--    - fork the github pages repo and fix a typo using a GitHub pull request -->
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Exercise 2 maechtekongresse]
 
 @snap[north h3-white]
 #### Exercise 2 maechtekongresse
@@ -433,7 +433,7 @@ personalized tasks
 - pro action: create a GitLab account and create a kongress-docker repo and a dockerfile in there to get the CI to deploy the GitHub app+data repo
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Exercise 2 QHOD]
 
 @snap[north h3-white]
 #### Exercise 2 QHOD
@@ -445,7 +445,7 @@ personalized tasks
 - think about a folder/file structure together that should be followed in these repos
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
+@title[Further reading]
 
 
 @snap[north h3-white]
@@ -467,6 +467,7 @@ personalized tasks
 
 
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[That's it!]
 
 @snap[north h3-white]
 Thanks!
