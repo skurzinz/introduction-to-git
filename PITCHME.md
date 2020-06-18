@@ -33,9 +33,7 @@ a very brief introduction.
 - 1430 Installation 
 - 1445 Hands-on (1) 
 - 1515 Pause
-- 1530 Git platforms
-    - GitLab 
-    - GitHub
+- 1530 Git platforms (GitLab, GitHub)
 - 1600 Hands-on (2) 
 - 1645 End/open questions
 
@@ -435,8 +433,8 @@ personalized tasks
 @snapend
 
 
-- create a GitLab account and change your remote
-- create a kongress-docker repo and a dockerfile in there to get the CI to deploy the GitHub app+data repo
+- change your remote to https://github.com/KONDE-AT/maechtekongresse.git
+- pro action: create a GitLab account and create a kongress-docker repo and a dockerfile in there to get the CI to deploy the GitHub app+data repo
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
