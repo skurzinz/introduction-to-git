@@ -15,6 +15,6 @@ for Historians @snapend
 Thanks!
 @snapend
 
-https://gitpitch.com/skurz/introduction-to-git/master
+https://gitpitch.com/skurzinz/introduction-to-git/master
 
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)

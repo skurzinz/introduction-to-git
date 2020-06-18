@@ -1,4 +1,3 @@
-
 <!-- lesson02 -->
 
 # GitHub: One web implementation

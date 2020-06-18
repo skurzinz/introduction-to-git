@@ -1,5 +1,3 @@
-<!-- lesson01 -->
-
 # Hi!
 
 - Questions? Interrupt! 
