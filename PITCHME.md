@@ -424,8 +424,8 @@ personalized tasks
 
 
 - create a branch of the `mp-data` repo for your respective volume and propose a change in GitLab via a Merge Request
-<!-- - Travelogues
-    - fork the github pages repo and fix a typo using a GitHub pull request -->
+<!-- - Travelogues -->
+<!--    - fork the github pages repo and fix a typo using a GitHub pull request -->
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
