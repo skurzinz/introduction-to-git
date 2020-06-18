@@ -1,3 +1,6 @@
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Git Version Control for Historians
 
 a very brief introduction. 
@@ -9,6 +12,10 @@ attendees: https://docs.google.com/spreadsheets/d/1cDelHBdPLbGrlLlc60DbJYHMt243K
 1400-1730
 
 Stephan Kurz
+
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Schedule | Overview
 

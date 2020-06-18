@@ -1,9 +1,17 @@
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # GitHub: One web implementation
 
 @ul
 - https://github.com  
 demo
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 
 # GitHub: One web implementation (contd)
 
@@ -20,12 +28,20 @@ demo
 - used internally at ACDH-CH
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
+
 # GitLab: Another web implementation
 
 @ul
 - https://gitlab.com  
 demo
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 
 # GitLab: Another web implementation (contd)
 
@@ -40,11 +56,19 @@ demo
 - used internally at ACDH-CH
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
+
 # Question round
 
 @ul
 - ? 
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 
 # Exercise 2
 
@@ -62,6 +86,10 @@ personalized tasks:
     - create one private repo each to hold your respective edition TEI data 
     - think about a folder/file structure together that should be followed in these repos
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 
 # Further reading
 

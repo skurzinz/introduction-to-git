@@ -1,3 +1,6 @@
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Hi!
 
 @ul
@@ -6,6 +9,9 @@
 - This is very brief. 
     - Links to other introductions and full documentation available
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Introduction
 
@@ -18,6 +24,9 @@
 - changes are reversible
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # What about the name? 
 
 @ul
@@ -26,12 +35,18 @@
 - means "stupid person" (https://en.wiktionary.org/wiki/git)
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # What is git made for? 
 
 @ul
 - development / code
 - (uncompressed) string-based data
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # What is it not made for? 
 
@@ -44,6 +59,9 @@
     - hard to diff
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Principal concepts of git
 
 @ul
@@ -55,6 +73,9 @@
 - no "server/client" setup
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # How does git work in practice?
 
 @ol
@@ -64,6 +85,9 @@
 4. *commit* with a message documenting changes
 5. *push* to remote
 @olend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # How does git work in practice? (contd)
 
@@ -76,6 +100,9 @@
 9. *push* 
 @olend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Why would we care? 
 
 @ul
@@ -86,11 +113,17 @@
 - "short term 'backup'"
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Question round
 
 @ul
 - ? 
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Git branches
 
@@ -100,6 +133,9 @@
 - Git stores differences between *commit*ted states
 - a branch is a pointer to a specific state
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Git flow branching
 
@@ -112,6 +148,9 @@
 @ulend
 
 see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-Workflow.html
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Git branches (contd)
 
 @ol
@@ -125,11 +164,17 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 
 Branches are throwaway material
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Question round
 
 @ul
 - ? 
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Installation
 
@@ -137,6 +182,9 @@ Branches are throwaway material
 - Git SCM Download: https://git-scm.com/download
 - GitHub Desktop: https://desktop.github.com/
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Tools for Git 
 
@@ -153,6 +201,9 @@ Branches are throwaway material
 - Web interfaces (covered in lesson02)
 @ulend
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Use cases in the room
 
 @ul
@@ -164,12 +215,18 @@ Branches are throwaway material
 @ulend
 
 
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
+
 # Practical example
 
 @ul
 - register at https://github.com
 - I'll allow you to directly add to the `introduction-to-git` repository
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Exercise 1
 
@@ -178,6 +235,9 @@ Branches are throwaway material
 - basic rendering is applied if you use  
     markdown syntax (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 @ulend
+
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 # Short break until 1530
 
