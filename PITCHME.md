@@ -233,10 +233,11 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 
 @ol
 1. a. git *branch* | git *checkout* -b branchname 
-…  
+2. …
+3. …
+4. …
 5. if necessary on remotes:
-    - *push* -u origin branchname  
-    otherwise delete: 
+    - *push* -u origin branchname  <br/>otherwise delete: 
     - git checkout development && git merge branchname && git branch -d branchname
 @ulend
 
