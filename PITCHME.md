@@ -28,7 +28,7 @@ a very brief introduction.
 @snapend
 
 @snap[south span-100]
-@ul
+
 - 1400 Introduction 
 - 1430 Installation 
 - 1445 Hands-on (1) 
@@ -38,7 +38,7 @@ a very brief introduction.
     - GitHub
 - 1600 Hands-on (2) 
 - 1645 End/open questions
-@ulend
+
 @snapend
 
 
@@ -51,12 +51,12 @@ a very brief introduction.
 #### Hi!
 @snapend
 
-@ul
+
 - Questions? Interrupt! 
 - Language: Deutsch, slides in English
 - This is very brief. 
     - Links to other introductions and full documentation available
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -65,14 +65,14 @@ a very brief introduction.
 #### Introduction
 @snapend
 
-@ul
+
 - Versioning is a concept known to Historians
 - Git is a tool useful for 
     - collaborative versioning
     - attribution of changes
     - timeline
 - changes are reversible
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -81,11 +81,11 @@ a very brief introduction.
 #### What about the name? 
 @snapend
 
-@ul
+
 - just a pronouncable 3-letter word 
 - no collision with standard unix commands
 - means "stupid person" (https://en.wiktionary.org/wiki/git)
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -94,10 +94,10 @@ a very brief introduction.
 #### What is git made for? 
 @snapend
 
-@ul
+
 - development / code
 - (uncompressed) string-based data
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -106,14 +106,14 @@ a very brief introduction.
 #### What is it not made for? 
 @snapend
 
-@ul
+
 - binary data, e.g.
     - images
     - binary executables
     - zipped files such as .docx and other office file formats
 - why not? 
     - hard to diff
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -122,14 +122,14 @@ a very brief introduction.
 #### Principal concepts of git
 @snapend
 
-@ul
+
 - working copy
 - index
 - remote repository
 - local repository
 - stash
 - no "server/client" setup
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -169,13 +169,13 @@ a very brief introduction.
 #### Why would we care? 
 @snapend
 
-@ul
+
 - Messy states of e.g. change-tracking in standard word processors
 - collaboration
     - attribution / responsibility
     - access control
 - "short term 'backup'"
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -184,9 +184,9 @@ a very brief introduction.
 #### Question round
 @snapend
 
-@ul
+
 - ? 
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -195,12 +195,12 @@ a very brief introduction.
 #### Git branches
 @snapend
 
-@ul
+
 - standard: master
 - n different states of the index
 - Git stores differences between *commit*ted states
 - a branch is a pointer to a specific state
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -209,13 +209,13 @@ a very brief introduction.
 #### Git flow branching
 @snapend
 
-@ul
+
 - master
 - release
 - development 
 - feature 
 - hotfix
-@ulend
+
 
 see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-Workflow.html
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
@@ -233,7 +233,7 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 5. if necessary on remotes:
     - *push* -u origin branchname  <br/>otherwise delete: 
     - git checkout development && git merge branchname && git branch -d branchname
-@ulend
+
 
 Branches are throwaway material
 
@@ -244,9 +244,9 @@ Branches are throwaway material
 #### Question round
 @snapend
 
-@ul
+
 - ? 
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -255,10 +255,10 @@ Branches are throwaway material
 #### Installation
 @snapend
 
-@ul
+
 - Git SCM Download: https://git-scm.com/download
 - GitHub Desktop: https://desktop.github.com/
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -267,7 +267,7 @@ Branches are throwaway material
 #### Tools for Git 
 @snapend
 
-@ul
+
 - Git comes as a command line tool
 - those who want to dig deeper: look into `./.git/`
 - Graphical interfaces see https://git-scm.com/downloads, e.g.
@@ -278,7 +278,7 @@ Branches are throwaway material
     - gitg 
 - Some text/code editors/IDEs offer native/plugin Git support
 - Web interfaces (covered in lesson02)
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -287,13 +287,13 @@ Branches are throwaway material
 #### Use cases in the room
 @snapend
 
-@ul
+
 - this presentation: https://github.com/skurzinz/introduction-to-git.git
 - https://github.com/KONDE-AT/maechtekongresse.git
 - https://gitlab.com/acdh-oeaw/ministerratsprotokolle/
 - https://github.com/travelogues
 - https://github.com/qhod
-@ulend
+
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
@@ -303,10 +303,10 @@ Branches are throwaway material
 #### Practical example
 @snapend
 
-@ul
+
 - register at https://github.com
 - I'll allow you to directly add to the `introduction-to-git` repository
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -315,10 +315,10 @@ Branches are throwaway material
 #### Exercise 1
 @snapend
 
-@ul
+
 - add any text file to the `text-files` folder 
 - basic rendering is applied if you use <br/>markdown syntax (<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>)
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -339,9 +339,9 @@ Branches are throwaway material
 #### GitHub: One web implementation
 @snapend
 
-@ul
+
 - https://github.com <br/>demo
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -351,7 +351,7 @@ Branches are throwaway material
 #### GitHub: One web implementation (contd)
 @snapend
 
-@ul
+
 - offers server for projects using Git
 - concept of "fork" (branched copy)
 - owned by Microsoft since 2019
@@ -362,7 +362,7 @@ Branches are throwaway material
 - private | public repositories
 - build integration
 - used internally at ACDH-CH
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -372,9 +372,9 @@ Branches are throwaway material
 #### GitLab: Another web implementation
 @snapend
 
-@ul
+
 - https://gitlab.com <br/>demo
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -384,7 +384,7 @@ Branches are throwaway material
 #### GitLab: Another web implementation (contd)
 @snapend
 
-@ul
+
 - can be self-hosted
 - user management
 - "projects" group related repositories
@@ -393,7 +393,7 @@ Branches are throwaway material
 - GitHub *pull requests* are called *merge requests*
 - only *Maintainer*+ level members can work on master
 - used internally at ACDH-CH
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -403,9 +403,9 @@ Branches are throwaway material
 #### Question round
 @snapend
 
-@ul
+
 - ? 
-@ulend
+
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -421,7 +421,7 @@ personalized tasks
 #### Exercise 2 MRP
 @snapend
 
-@ul
+
 - create a branch of the `mp-data` repo for your respective volume and propose a change in GitLab via a Merge Request
 <!-- 
 - Travelogues
@@ -435,7 +435,7 @@ personalized tasks
 #### Exercise 2 maechtekongresse
 @snapend
 
-@ul
+
 - create a GitLab account and change your remote
 - create a kongress-docker repo and a dockerfile in there to get the CI to deploy the GitHub app+data repo
 
@@ -447,9 +447,9 @@ personalized tasks
 @snapend
 
 
-@ul
+
 - create one private repo each to hold your respective edition TEI data 
-- think about a folder/file structure together that should be followed in these repos@ulend
+- think about a folder/file structure together that should be followed in these repos
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
@@ -459,14 +459,14 @@ personalized tasks
 #### Further reading
 @snapend
 
-@ul
+
 - https://rogerdudler.github.io/git-guide/index.de.html
 - https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 - https://education.github.com/git-cheat-sheet-education.pdf
 - https://github.com/acdh-oeaw/tool-gallery-5.1.git
 - https://github.com/acdh-oeaw/Teaching_CBS4DH/blob/master/lectures/git.md
 - https://git-scm.com/book/en/v2
-@ulend
+
 
 
 
