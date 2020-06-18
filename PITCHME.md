@@ -10,12 +10,12 @@ Git Version Control for Historians
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
-## Git Version Control for Historians
-
-### a very brief introduction. 
+### Git Version Control for Historians 
 @snapend
 
 @snap[south span-100]
+a very brief introduction.
+
 2020-06-22, IHB, 1400-1730, Stephan Kurz
 @snapend
 
