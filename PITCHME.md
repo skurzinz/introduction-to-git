@@ -9,7 +9,7 @@ Git Version Control for Historians
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-@snap[north h3-white]
+@snap[north h3-white span-100]
 ### Git Version Control for Historians 
 @snapend
 
