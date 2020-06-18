@@ -1,7 +1,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Git Version Control for Historians
+#### Git Version Control for Historians
 
 a very brief introduction. 
 
@@ -17,7 +17,7 @@ Stephan Kurz
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Schedule | Overview
+#### Schedule | Overview
 
 @ul
 - 1400 Introduction 

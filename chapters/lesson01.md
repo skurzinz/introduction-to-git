@@ -1,7 +1,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Hi!
+#### Hi!
 
 @ul
 - Questions? Interrupt! 
@@ -13,7 +13,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Introduction
+#### Introduction
 
 @ul
 - Versioning is a concept known to Historians
@@ -27,7 +27,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# What about the name? 
+#### What about the name? 
 
 @ul
 - just a pronouncable 3-letter word 
@@ -38,7 +38,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# What is git made for? 
+#### What is git made for? 
 
 @ul
 - development / code
@@ -48,7 +48,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# What is it not made for? 
+#### What is it not made for? 
 
 @ul
 - binary data, e.g.
@@ -62,7 +62,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Principal concepts of git
+#### Principal concepts of git
 
 @ul
 - working copy
@@ -76,7 +76,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# How does git work in practice?
+#### How does git work in practice?
 
 @ol
 1. *clone* or create (*init*) a repository
@@ -89,7 +89,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# How does git work in practice? (contd)
+#### How does git work in practice? (contd)
 
 @ol
 6. collaborators *pull* the changes
@@ -103,7 +103,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Why would we care? 
+#### Why would we care? 
 
 @ul
 - Messy states of e.g. change-tracking in standard word processors
@@ -116,7 +116,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Question round
+#### Question round
 
 @ul
 - ? 
@@ -125,7 +125,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Git branches
+#### Git branches
 
 @ul
 - standard: master
@@ -137,7 +137,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Git flow branching
+#### Git flow branching
 
 @ul
 - master
@@ -151,7 +151,7 @@ see https://m.infos.seibert-media.net/Productivity/Git-Workflows+-+Der+Gitflow-W
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Git branches (contd)
+#### Git branches (contd)
 
 @ol
 1. a. git *branch* | git *checkout* -b branchname 
@@ -167,7 +167,7 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Question round
+#### Question round
 
 @ul
 - ? 
@@ -176,7 +176,7 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Installation
+#### Installation
 
 @ul
 - Git SCM Download: https://git-scm.com/download
@@ -186,7 +186,7 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Tools for Git 
+#### Tools for Git 
 
 @ul
 - Git comes as a command line tool
@@ -204,7 +204,7 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Use cases in the room
+#### Use cases in the room
 
 @ul
 - this presentation: https://github.com/skurzinz/introduction-to-git.git
@@ -218,7 +218,7 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Practical example
+#### Practical example
 
 @ul
 - register at https://github.com
@@ -228,7 +228,7 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Exercise 1
+#### Exercise 1
 
 @ul
 - add any text file to the `text-files` folder 
@@ -239,5 +239,5 @@ Branches are throwaway material
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# Short break until 1530
+#### Short break until 1530
 

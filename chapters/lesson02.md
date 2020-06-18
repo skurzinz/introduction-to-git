@@ -2,7 +2,7 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-# GitHub: One web implementation
+#### GitHub: One web implementation
 
 @ul
 - https://github.com  
@@ -13,7 +13,7 @@ demo
 @title[Sidebar + Heading]
 
 
-# GitHub: One web implementation (contd)
+#### GitHub: One web implementation (contd)
 
 @ul
 - offers server for projects using Git
@@ -32,7 +32,7 @@ demo
 @title[Sidebar + Heading]
 
 
-# GitLab: Another web implementation
+#### GitLab: Another web implementation
 
 @ul
 - https://gitlab.com  
@@ -43,7 +43,7 @@ demo
 @title[Sidebar + Heading]
 
 
-# GitLab: Another web implementation (contd)
+#### GitLab: Another web implementation (contd)
 
 @ul
 - can be self-hosted
@@ -60,7 +60,7 @@ demo
 @title[Sidebar + Heading]
 
 
-# Question round
+#### Question round
 
 @ul
 - ? 
@@ -70,7 +70,7 @@ demo
 @title[Sidebar + Heading]
 
 
-# Exercise 2
+#### Exercise 2
 
 personalized tasks: 
 
@@ -91,7 +91,7 @@ personalized tasks:
 @title[Sidebar + Heading]
 
 
-# Further reading
+#### Further reading
 
 @ul
 - https://rogerdudler.github.io/git-guide/index.de.html
