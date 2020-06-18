@@ -3,9 +3,9 @@
 
 
 @snap[north h3-white]
-#### Git Version Control for Historians
+## Git Version Control for Historians
 
-a very brief introduction. 
+#### a very brief introduction. 
 @snapend
 
 @snap[south span-100]
@@ -20,6 +20,7 @@ a very brief introduction.
 #### Schedule | Overview
 @snapend
 
+@snap[south span-100]
 @ul
 - 1400 Introduction 
 - 1430 Installation 
@@ -31,3 +32,4 @@ a very brief introduction.
 - 1600 Hands-on (2) 
 - 1645 End/open questions
 @ulend
+@snapend
