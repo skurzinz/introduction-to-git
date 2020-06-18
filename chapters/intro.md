@@ -1,23 +1,24 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+
+@snap[north h3-white]
 #### Git Version Control for Historians
 
 a very brief introduction. 
+@snapend
 
-/2020-06-22, IHB/
-
-attendees: https://docs.google.com/spreadsheets/d/1cDelHBdPLbGrlLlc60DbJYHMt243KXy5BZuwi_Pf0ZE/edit#gid=0
-
-1400-1730
-
-Stephan Kurz
+@snap[south span-100]
+/2020-06-22, IHB, 1400-1730, Stephan Kurz/
+@snapend
 
 
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
+@snap[north h3-white]
 #### Schedule | Overview
+@snapend
 
 @ul
 - 1400 Introduction 
