@@ -271,7 +271,7 @@ Branches are throwaway material
 
 
 - Git comes as a command line tool
-- those who want to dig deeper: look into `./.git/`
+<!-- - those who want to dig deeper: look into `./.git/` -->
 - Graphical interfaces see https://git-scm.com/downloads, e.g.
 SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg 
 - Some text/code editors/IDEs offer native/plugin Git support
