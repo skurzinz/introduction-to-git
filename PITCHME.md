@@ -316,7 +316,7 @@ SourceTree, GitAhead, GitHub Desktop, TortoiseGit, gitg
 @title[—— Break ——]
 
 @snap[north h3-white]
-#### Short break until 1530
+#### Short break until 1600
 @snapend
 
 
