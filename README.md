@@ -4,7 +4,7 @@ Repo for a short introduction into the Git VCS with humanities scholars as a tar
 
 Somehow obsolete as pitchme does not work any longer.
 
-2023-11-29 The content of the slides has been extracted into <./slides_text.md>.  
+2023-11-29 The content of the slides has been extracted into [this file](./slides_text.md).  
 
 ## Folders
 
